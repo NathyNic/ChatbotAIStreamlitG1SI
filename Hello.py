@@ -34,6 +34,6 @@ st.markdown(
 
     **Donde el usuario pueda indicar:**
     - El modelo ejecutar.
-    - La acción o instrumento financiero que quiera analizar.
+    - La acción o instrumento financiero que quiera analizar..
 """
 )
