@@ -13,7 +13,7 @@ st.markdown(
     """
     # Grupo 1 - Integrantes:
     | Nombre |
-    |--|--|
+    |--|
     | Oscar Stalyn, Yanfer Laura | 
     | Diego Tharlez Montalvo Ortega | 
     | Jorge Luis Quispe Alarcon | 
