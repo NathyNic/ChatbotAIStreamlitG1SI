@@ -13,15 +13,13 @@ st.markdown(
     """
     # Grupo 1 - Integrantes:
     | Nombre |
-    |--|
-    | Oscar Stalyn, Yanfer Laura | 
-    | Diego Tharlez Montalvo Ortega | 
-    | Jorge Luis Quispe Alarcon | 
-    | Wilker Edison,Atalaya Ramirez |
-    | Anthony Elias,Ricse Perez | 
-    | Carlos Daniel Tarmeño Noriega | 
-    | Nathaly Nicole Pichilingue Pimentel | 
+
+    | Alexander Torre Arteaga |
+    | Angel Gerardo Carmen Cruzatti |
+    | Jesus Orlando Gil Jauregui|
     | Jorge Luis, Marin Evangelista |
+    | Nathaly Nicole Pichilingue Pimentel | 
+    
 
     ### Especificaciones:
     **Donde muestra las predicciones/los resultados:**
